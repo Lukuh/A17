@@ -14,7 +14,7 @@ global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = true;
-
+global.autobio = true
 
 //
 global.prefa = ["."];                                    //Default prefix here. you can change if you want.
